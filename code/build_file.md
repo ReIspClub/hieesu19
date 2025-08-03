@@ -3,5 +3,5 @@
 - Cài nasm và golink
 - Bật cmd hoặc window powershell
 
-`nasm -f win32 rc4.asm -o rc4.obj`
-`golink /console /entry _start rc4.obj kernel32.dll`
+<pre>nasm -f win32 rc4.asm -o rc4.obj
+golink /console /entry _start rc4.obj kernel32.dll</pre>

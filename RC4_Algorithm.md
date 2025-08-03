@@ -61,5 +61,7 @@ for( int p = 0 ; p < key_len;  ++p){
 ## Decryption
 Để giải mã thì đơn giản ta chỉ cần `XOR` lại cái `keystream` với `encrypted_data` là được
 
+CODE C : [Here](https://ideone.com/jduS27?fbclid=IwY2xjawL8lRpleHRuA2FlbQIxMABicmlkETE3TGRyVXZCYWMyS2JvWmZ5AR5CmBRJASdzJ5J8e-ATgMB85l8zRwR2Qd0g9eFyOJS0rKlSBfNz4yYEvEbhaQ_aem_PmrP544ZY5cb8xDPwQlC6A)
+
 *** 
 ## ***<p style="color:red;">by hieesu19</p>***
